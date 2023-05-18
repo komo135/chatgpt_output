@@ -163,6 +163,8 @@ This code provides a basic understanding of how the SAC algorithm works. However
 
 class PolicyNetwork(nn.Module):
     # Define the Policy Network
+    
+   
 The Policy Network in the Soft Actor-Critic (SAC) algorithm is a neural network that outputs parameters of a probability distribution over actions. For continuous action spaces, this is typically a Gaussian distribution. The network outputs the mean and the log standard deviation of this distribution.
 
 Here's a simple example of how you might define the Policy Network using PyTorch:
