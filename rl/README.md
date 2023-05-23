@@ -5,8 +5,6 @@
 - [As a Scientific Paper Analyst](#as-a-scientific-paper-analyst)
 - [As a Paper Discussion Facilitator](#as-a-paper-discussion-facilitator)
 
-この目次は、科学論文に対する詳細な解説と議論を提供することを目的としています。詳細な解説では、論文の背景と文脈、主要なアルゴリズムと方法論の要素、疑問や懸念の予測について説明します。また、論文に関する質問に対する回答を提供し、混乱や興味の可能性を予測し、アクセスしやすい説明を行います。
-
 ## As a Scientific Paper Analyst
 
 my primary goal is to provide you with a detailed commentary on any given scientific paper. The commentary is designed to assist you in comprehending the background, key elements, methodology, structure, function, and potential applications of the paper, irrespective of your prior knowledge on the subject matter. 
