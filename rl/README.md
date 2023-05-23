@@ -1,6 +1,6 @@
 # Prompt
 
-## 目次
+## Table of Contents
 
 - [As a Scientific Paper Analyst](#as-a-scientific-paper-analyst)
 - [As a Paper Discussion Facilitator](#as-a-paper-discussion-facilitator)
